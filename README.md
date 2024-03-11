@@ -32,9 +32,9 @@ bash setup.sh
 
 ## ⚠️ IMPORTANTE ⚠️
 
-__El script se debe ejecutar sin permisos de superusuario (root), de lo contrario no funcionará__
+__> El script se debe ejecutar sin permisos de superusuario (root), de lo contrario no funcionará__
 
-__Este software está pensado para ejecutarse en Kali Linux__
+__> Este software está pensado para ejecutarse en Kali Linux__
 
 ## Vista previa del entorno:
 ![overview1](/assets/overview1.png "overview1")
